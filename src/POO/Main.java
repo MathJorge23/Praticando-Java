@@ -1,5 +1,7 @@
 package POO;
 
+import POO.projeto_filmes.Filme;
+
 public class Main {
     public static void main(String[] args) {
 
